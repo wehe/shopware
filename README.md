@@ -1,1 +1,1 @@
-shopware
+shopware2
